@@ -1,0 +1,13 @@
+  python testing.py                                                                                                  
+   ls                                                                                                                 
+   ls -l                                                                                                              
+   ls                                                                                                                 
+   git init                                                                                                           
+   dir                                                                                                                
+   git status                                                                                                         
+    git status                                                                                                         
+   git add                                                                                                            
+   git add .                                                                                                          
+   git status                                                                                                         
+  rm --cached testing.py                                                                                             
+  git status                                                 
